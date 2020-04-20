@@ -1,5 +1,15 @@
 # Problem Statement - https://leetcode.com/problems/group-anagrams
 
+
+"""
+Complexity analysis:
+
+1) Time complexity: 
+
+2) Space complexity: 
+"""
+
+
 def groupAnagrams(strs):
     ana_map = {}
     

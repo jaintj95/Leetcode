@@ -1,5 +1,15 @@
 # Problem Statement - https://leetcode.com/problems/move-zeroes/
 
+
+"""
+Complexity analysis:
+
+1) Time complexity: 
+
+2) Space complexity: 
+"""
+
+
 def moveZeroes(nums) -> None:
     """
     Do not return anything, modify nums in-place instead.

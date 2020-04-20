@@ -1,5 +1,15 @@
 # Problem statement - https://leetcode.com/problems/maximum-subarray
 
+
+"""
+Complexity analysis:
+
+1) Time complexity: 
+
+2) Space complexity: 
+"""
+
+
 def max_subarray(arr):
     res_arr = [0 for _ in range(0, len(arr))]
     res_arr[0] = (arr[0], 0) # (max_val, start_idx) format

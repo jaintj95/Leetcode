@@ -1,6 +1,15 @@
 # Problem statement - https://leetcode.com/problems/two-sum
 
 
+"""
+Complexity analysis:
+
+1) Time complexity: 
+
+2) Space complexity: 
+"""
+
+
 def twoSum(nums, target):
     output = []
     for i in range(len(nums)):

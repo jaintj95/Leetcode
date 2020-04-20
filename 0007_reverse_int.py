@@ -1,6 +1,15 @@
 # Problem statement - https://leetcode.com/problems/reverse-integer/
 
 
+"""
+Complexity analysis:
+
+1) Time complexity: 
+
+2) Space complexity: 
+"""
+
+
 def reverse(x):
     if x < 0:
         y = 0-x
